@@ -1,0 +1,34 @@
+{
+  "Products": [
+    {
+      "id": 1,
+      "title": "leather Jacket",
+      "image": "https://ae01.alicdn.com/kf/H4eb29dff80f54a99af67732e5e32c22cf/Men-s-Real-Leather-Jacket-Men-Motorcycle-Removable-Hood-winter-coat-Men-Warm-Genuine-Leather-Jackets.jpg",
+      "price": "200",
+      "description": "brown best leather jacket"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "haider",
+      "email": "haidersherazi123@gmail.com",
+      "phonenumber": "03361105905",
+      "password": "asdfghjk"
+    },
+    {
+      "username": "haider-sherazi",
+      "email": "haidersherazi888@gmail.com",
+      "number": 456789000000004,
+      "password": "asdgfhjjjjkh",
+      "id": 2
+    },
+    {
+      "username": "abbas",
+      "email": "abbas@gmail.coom",
+      "number": 3566738999309,
+      "password": "fshjjlljjs",
+      "id": 3
+    }
+  ]
+}
